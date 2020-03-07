@@ -1,2 +1,2 @@
 # Autonomous-Self-Navigating-Robot
-Autonomous Self-Navigating Robot -- Final Year Project
+Autonomous Self-Navigating Robot -- MEng Final Year Project
