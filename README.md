@@ -1,6 +1,8 @@
 # Autonomous-Self-Navigating-Robot
 Autonomous Self-Navigating Robot -- MEng Final Year Project
 
+**This project has won the QuEST Ingenium Competition UK 2019 across all STEM projects around the UK**
+
 ### Preface
 This project, Autonomous Self-navigating Robot, is aimed at planning, designing and developing a robot that is able to help navigate itself around any environment avoiding any obstacles in the way. With the aid of several ultrasonic sensors that are used to detect objects in close proximity, the data received from the sensors will be analysed by a microcontroller that will then interpret the data and take a decision based on the outcome of the information received from the sensors. The outcome of the microcontroller is then observed in the form of physical movement in the robot body by the powering of four DC motors accordingly. 
 
