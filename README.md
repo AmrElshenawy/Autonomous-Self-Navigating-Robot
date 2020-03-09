@@ -10,4 +10,4 @@ In addition to the autonomous feature, the robot has been developed to allow ext
 
 **Please refer to the Project Report for complete and detailed information regarding the whole process with findings and results.**
 
-Copyright © Amr Elshenawy - Please do not copy/use any material from this repository without my permission.
+Copyright © Amr Elshenawy 2020 - Please do not copy/use any material from this repository without my permission.
